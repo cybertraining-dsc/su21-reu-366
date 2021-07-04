@@ -1,9 +1,9 @@
 ---
 date: 2021-06-16
-title: "Project: This is the Descriptive Title of the Example"
-linkTitle: "366"
+title: "Handwriting Recognition Using AI"
+linkTitle: "Handwriting"
 tags: ["project", "reu"]
-description: "Here comes the abstract"
+description: "This research is using AI to identify different handwriting styles, and whether they are written by males or females."
 author: Mikahla Reeves
 github_url: https://github.com/cybertraining-dsc/su21-reu-366/edit/main/project/index.md
 resources:
@@ -22,7 +22,11 @@ Firstname Lastname, [su21-reu-366](https://github.com/cybertraining-dsc/su21-reu
 
 ## Abstract
 
-Here comes a short abstract of the project that summarizes what it is about
+In the artificial intelligence world, handwriting recognition has proven itself to be one of the most challenging research areas.
+However, over the years, there has been many developments and applications made in this field. Today, there are handwriting 
+recognition systems that convert handwritten text into digital forms, help the visually-impaired to read, and serve as a very 
+efficient archival tool. This research will use machine learning tools to recognize handwriting styles, and to analyze whether 
+the handwriting styles are from men or women.
 
 Contents
 
