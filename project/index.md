@@ -93,8 +93,8 @@ comments into your document that you will have to fix, If you juys past copy you
 You have two choices for the final project. 
 
 1. Project, That is a final report that includes code.
-2. Report, that is a final project without code.
-   
+2. Report, that is a final project without code.   
+
 YOu will be including the type of the project as a prefix to your title, as well as in the Type tag
 at the beginning of your project.
 
@@ -109,8 +109,8 @@ at the beginning of your project.
 Remember this is not a powerpoint presentation, but a report so we recommend
 
 1. Use itemized or enumeration lists sparingly
-2. When using bulleted lists use * and not - 
-   
+2. When using bulleted lists use * and not -
+
 ## 5. Datasets
 
 Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
