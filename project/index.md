@@ -93,7 +93,7 @@ comments into your document that you will have to fix, If you juys past copy you
 You have two choices for the final project. 
 
 1. Project, That is a final report that includes code.
-2. Report, that is a final project without code.   
+2. Report, that is a final project without code.
 
 YOu will be including the type of the project as a prefix to your title, as well as in the Type tag
 at the beginning of your project.
@@ -128,7 +128,7 @@ A convincing but not fake conclusion should summarize what the conclusion of the
 
 ## 8. Acknowledgments
 
-Please add acknowledgments to all that contributed or helped on this project.  
+Please add acknowledgments to all that contributed or helped on this project.
 
 ## 9. References
 
