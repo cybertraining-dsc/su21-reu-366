@@ -16,7 +16,7 @@ resources:
 Status: draft, Type: Project
 
 
-Firstname Lastname, [su21-reu-366](https://github.com/cybertraining-dsc/su21-reu-366), [Edit](https://github.com/cybertraining-dsc/su21-reu-366/blob/main/project/index.md)
+Mikahla Reeves, [su21-reu-366](https://github.com/cybertraining-dsc/su21-reu-366), [Edit](https://github.com/cybertraining-dsc/su21-reu-366/blob/main/project/index.md)
 
 {{% pageinfo %}}
 
