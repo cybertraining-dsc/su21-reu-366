@@ -3,7 +3,7 @@ date: 2021-06-16
 title: "Handwriting Recognition Using AI"
 linkTitle: "Handwriting"
 tags: ["project", "reu"]
-description: "This research is using AI to identify different handwriting styles, and whether they are written by males or females."
+description: "This research is using AI to identify different handwriting styles of the letter A."
 author: Mikahla Reeves
 github_url: https://github.com/cybertraining-dsc/su21-reu-366/edit/main/project/index.md
 resources:
@@ -22,11 +22,10 @@ Mikahla Reeves, [su21-reu-366](https://github.com/cybertraining-dsc/su21-reu-366
 
 ## Abstract
 
-In the artificial intelligence world, handwriting recognition has proven itself to be one of the most challenging research areas.
-However, over the years, there has been many developments and applications made in this field. Today, there are handwriting 
-recognition systems that convert handwritten text into digital forms, help the visually-impaired to read, and serve as a very 
-efficient archival tool. This research will use machine learning tools to recognize handwriting styles, and to analyze whether 
-the handwriting styles are from men or women.
+In the artificial intelligence world, handwriting recognition has become a very established area. Over the years, 
+there have been many developments and applications made in this field. There are handwriting recognition systems 
+that convert handwritten text/numbers into digital forms, help the visually impaired read, and serve as a very efficient 
+archival tool. This research will use machine learning tools to recognize different handwriting styles of the letter A.
 
 Contents
 
@@ -34,18 +33,11 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** tensorflow, example. 
+**Keywords:** handwriting, recognition. 
 
 ## 1. Introduction
 
-Do not include this tip in your document:
 
-> Tip: Please note that an up to date version of these instructions is available at
->
-> * <https://github.com/cybertraining-dsc/hid-example/blob/main/project/index.md>
-
-
-Here comes a convincing introduction to the problem
 
 ## 2. Report Format
 
