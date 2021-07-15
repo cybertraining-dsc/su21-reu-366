@@ -92,7 +92,7 @@ at the beginning of your project.
 
 ## 3. Using Images
 
-![Figure 1](https://github.com/cybertraining-dsc/fa20-523-314/raw/main/project/images/chart.png)
+![Figure 1](https://github.com/cybertraining-dsc/su21-reu-366/blob/main/project/images/0120_4.jpg)
 
 **Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
 
