@@ -63,7 +63,9 @@ A convincing but not fake conclusion should summarize what the conclusion of the
 
 ## 6. Acknowledgments
 
-Please add acknowledgments to all that contributed or helped on this project.
+This paper would not have been possible without the exceptional support of Gregor von Laszewski, Carlos Theran, Yohn Jairo. 
+Their constant guidance, enthusiasm, knowledge and encouragement have been a huge motivation to keep going and to complete this work.
+Thank you to my colleague, Jacques Fleicher, for always making himself available to help. Thank you to Byron Greene.
 
 ## 7. References
 
