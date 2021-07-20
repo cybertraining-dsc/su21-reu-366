@@ -59,22 +59,24 @@ Contents
 
 - [ ] Check with professors on whether i still need this
 
-## 6. Benchmark
+## 6. Machine Learning Tools
+
+## 7. Benchmark
 
 Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
  
-## 7. Conclusion
+## 8. Conclusion
 
 A convincing but not fake conclusion should summarize what the conclusion of the project is.
 
-## 8. Acknowledgments
+## 9. Acknowledgments
 
 This paper would not have been possible without the exceptional support of Gregor von Laszewski, Carlos Theran, Yohn Jairo. 
 Their constant guidance, enthusiasm, knowledge and encouragement have been a huge motivation to keep going and to complete this work.
 Thank you to Jacques Fleicher, for always making himself available to answer questions. Finally, thank you to Byron Greene 
 and the Florida A&M University for providing this great opportunity for undergraduate students to do research.
 
-## 9. References
+## 10. References
 
 Your report must include at least 6 references. Please use customary academic citation and not just URLs. As we will at 
 one point automatically change the references from superscript to square brackets it is best to introduce a space before 
