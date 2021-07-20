@@ -47,7 +47,7 @@ Contents
 
 ## 2. Images
 
-![Figure 1](github.com/cybertraining-dsc/su21-reu-366/blob/main/project/images/Handwriting%20Recognition.png)
+![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-366/blob/main/project/images/Handwriting%20Recognition.png)
 
 ## 3. Datasets
 
