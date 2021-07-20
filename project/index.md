@@ -45,9 +45,9 @@ Contents
 
 ## 1. Introduction
 
-## 2. Images
+## 2. Using Images
 
-![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-366/blob/main/project/images/Handwriting_Recognition.png)
+![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-366/main/project/images/Handwriting_Recognition.png)
 
 **Figure 1:** Overview of the NN operations (green) and the data flow through the NN (pink) [^3].
 
