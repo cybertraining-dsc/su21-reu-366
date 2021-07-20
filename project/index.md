@@ -20,6 +20,14 @@ Mikahla Reeves, [su21-reu-366](https://github.com/cybertraining-dsc/su21-reu-366
 
 {{% pageinfo %}}
 
+## To-Do 
+
+[] Add in introduction
+
+[] Add in references
+
+[] Explain what persons have done so far, approach to the prob
+
 ## Abstract
 
 In the artificial intelligence world, handwriting recognition has become a very established area. Over the years, 
