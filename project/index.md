@@ -45,32 +45,36 @@ Contents
 
 ## 1. Introduction
 
-## 2. Using Images
+## 2. Importance of Handwriting Recognition
+
+## 3. Why is Handwriting Recognition Challenging?
+
+## 4. Images
 
 ![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-366/main/project/images/Handwriting_Recognition.png)
 
 **Figure 1:** Overview of the NN operations (green) and the data flow through the NN (pink) [^3].
 
-## 3. Datasets
+## 5. Datasets
 
 - [ ] Check with professors on whether i still need this
 
-## 4. Benchmark
+## 6. Benchmark
 
 Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
  
-## 5. Conclusion
+## 7. Conclusion
 
 A convincing but not fake conclusion should summarize what the conclusion of the project is.
 
-## 6. Acknowledgments
+## 8. Acknowledgments
 
 This paper would not have been possible without the exceptional support of Gregor von Laszewski, Carlos Theran, Yohn Jairo. 
 Their constant guidance, enthusiasm, knowledge and encouragement have been a huge motivation to keep going and to complete this work.
 Thank you to Jacques Fleicher, for always making himself available to answer questions. Finally, thank you to Byron Greene 
 and the Florida A&M University for providing this great opportunity for undergraduate students to do research.
 
-## 7. References
+## 9. References
 
 Your report must include at least 6 references. Please use customary academic citation and not just URLs. As we will at 
 one point automatically change the references from superscript to square brackets it is best to introduce a space before 
