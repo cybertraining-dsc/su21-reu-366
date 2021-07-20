@@ -2,7 +2,7 @@
 date: 2021-06-16
 title: "Handwriting Recognition Using AI"
 linkTitle: "Handwriting"
-tags: ["report", "reu"]
+tags: ["report", "reu" , "handwriting" , "recognition"]
 description: "This research is using AI to identify different handwriting styles of the letter A."
 author: Mikahla Reeves
 github_url: https://github.com/cybertraining-dsc/su21-reu-366/edit/main/project/index.md
@@ -13,7 +13,7 @@ resources:
 
 [![Check Report](https://github.com/cybertraining-dsc/su21-reu-366/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-366/actions)
 [![Status](https://github.com/cybertraining-dsc/su21-reu-366/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-366/actions)
-Status: draft, Type: Project
+Status: draft, Type: Report
 
 
 Mikahla Reeves, [su21-reu-366](https://github.com/cybertraining-dsc/su21-reu-366), [Edit](https://github.com/cybertraining-dsc/su21-reu-366/blob/main/project/index.md)
