@@ -41,7 +41,7 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** handwriting, recognition. 
+**Keywords:** handwriting recognition, offline, online, deep learning. 
 
 ## 1. Introduction
 
