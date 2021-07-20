@@ -22,11 +22,11 @@ Mikahla Reeves, [su21-reu-366](https://github.com/cybertraining-dsc/su21-reu-366
 
 ## To-Do 
 
-[ ] Add in introduction
+- [ ] Add in introduction
 
-[ ] Add in references
+- [ ] Add in references
 
-[ ] Explain what persons have done so far, approach to the prob
+- [ ] Explain what persons have done so far, approach to the prob
 
 ## Abstract
 
