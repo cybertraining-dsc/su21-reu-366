@@ -33,7 +33,7 @@ Mikahla Reeves, [su21-reu-366](https://github.com/cybertraining-dsc/su21-reu-366
 In the artificial intelligence world, handwriting recognition has become a very established area. Over the years, 
 there have been many developments and applications made in this field. There are handwriting recognition systems 
 that convert handwritten text/numbers into digital forms, help the visually impaired read, and serve as a very efficient 
-archival tool. This research will review machine learning tools that are used to recognize different handwriting styles.
+archival tool. This research will review some machine learning tools that have been developed to recognize different handwriting styles.
 
 Contents
 
