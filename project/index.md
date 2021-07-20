@@ -3,7 +3,7 @@ date: 2021-06-16
 title: "Handwriting Recognition Using AI"
 linkTitle: "Handwriting"
 tags: ["report", "reu" , "handwriting" , "recognition"]
-description: "This research is using AI to identify different handwriting styles of the letter A."
+description: "This research is reviewing machine learning tools used to identify different handwriting styles."
 author: Mikahla Reeves
 github_url: https://github.com/cybertraining-dsc/su21-reu-366/edit/main/project/index.md
 resources:
@@ -25,7 +25,7 @@ Mikahla Reeves, [su21-reu-366](https://github.com/cybertraining-dsc/su21-reu-366
 In the artificial intelligence world, handwriting recognition has become a very established area. Over the years, 
 there have been many developments and applications made in this field. There are handwriting recognition systems 
 that convert handwritten text/numbers into digital forms, help the visually impaired read, and serve as a very efficient 
-archival tool. This research will use machine learning tools to recognize different handwriting styles of the letter A.
+archival tool. This research will review machine learning tools that are used to recognize different handwriting styles.
 
 Contents
 
