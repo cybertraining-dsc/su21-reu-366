@@ -49,6 +49,7 @@ Contents
 
 ![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-366/blob/main/project/images/Handwriting%20Recognition.png)
 
+**Figure 1:** Overview of the NN operations (green) and the data flow through the NN (pink) [^3].
 ## 3. Datasets
 
 - [ ] Check with professors on whether i still need this
