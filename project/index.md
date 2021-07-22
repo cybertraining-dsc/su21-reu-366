@@ -84,7 +84,7 @@ the first square bracket.
 
 [^1]: Handwriting Recognition in 2021: In-depth Guide. (n.d.). Retrieved July 21, 2021, from
       <https://research.aimultiple.com/handwriting-recognition>
-      
+
 [^2]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
       <https://github.com/cloudmesh/cloudmesh-common>
 
