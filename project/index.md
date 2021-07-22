@@ -3,7 +3,7 @@ date: 2021-06-16
 title: "Handwriting Recognition Using AI"
 linkTitle: "Handwriting"
 tags: ["report", "reu" , "handwriting" , "recognition"]
-description: "This research is reviewing machine learning tools used to identify different handwriting styles."
+description: "This research is reviewing approaches, methods and machine learning tools used by previous researchers to convert handwriting into digital forms."
 author: Mikahla Reeves
 github_url: https://github.com/cybertraining-dsc/su21-reu-366/edit/main/project/index.md
 resources:
@@ -33,7 +33,9 @@ Mikahla Reeves, [su21-reu-366](https://github.com/cybertraining-dsc/su21-reu-366
 In the artificial intelligence world, handwriting recognition has become a very established area. Over the years, 
 there have been many developments and applications made in this field. There are handwriting recognition systems 
 that convert handwritten text/numbers into digital forms, help the visually impaired read, and serve as a very efficient 
-archival tool. This research will review some machine learning tools that recognize different handwriting styles.
+archival tool.  
+This research will review approaches taken by researchers/developers to convert handwritten information from 
+images to digital forms. Also, it will discuss the importance.
 
 Contents
 
@@ -41,7 +43,7 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** handwriting recognition,optical character recognition, machine learning, neural network, artificial intelligence. 
+**Keywords:** handwriting recognition,optical character recognition. 
 
 ## 1. Introduction
 
