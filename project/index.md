@@ -66,9 +66,8 @@ essays, and many more into digital forms, thus making life easier for businesses
 
 **Figure 1:** Overview of the NN operations (green) and the data flow through the NN (pink) [^3].
 
-## 5. Datasets
+## 5. What has been done so far in the field?
 
-- [ ] Check with professors on whether i still need this
 
 ## 6. Machine Learning Tools
 
