@@ -41,20 +41,18 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** handwriting recognition, offline, online, deep learning, neural network. 
+**Keywords:** handwriting recognition,optical character recognition, machine learning, neural network, artificial intelligence. 
 
 ## 1. Introduction
 
-Perhaps one of the most monumental things in this modern-day is how our devices can behave like brains. 
-Our various devices can call mom, play our favorite song, and answer our questions by just a simple utterance of Siri or Alexa. 
-These things are all possible because of what we call artificial intelligence. 
-Artificial intelligence is a part of computer science that involves learning, problem-solving, and replicates human intelligence. 
-When we hear of artificial intelligence, we often hear of machine learning as well. 
-The reason for this is because machine learning also involves the use of human intelligence. 
-Machine learning is the process of a program or system getting more capable over time.
+Perhaps one of the most monumental things in this modern-day is how our devices can behave like brains. Our various devices can call mom, play our favorite song, 
+and answer our questions by just a simple utterance of Siri or Alexa. These things are all possible because of what we call artificial intelligence. Artificial 
+intelligence is a part of computer science that involves learning, problem-solving, and replicates human intelligence. When we hear of artificial intelligence, 
+we often hear of machine learning as well. The reason for this is because machine learning also involves the use of human intelligence. Machine learning is the 
+process of a program or system getting more capable over time.
 
-Handwriting Recognition is a branch of (OCR) Optical Character Recognition. 
-It is a technology that receives and interprets handwritten information from paper, images, and other items to digital text in real-time. 
+Handwriting Recognition is a branch of (OCR) Optical Character Recognition. It is a technology that receives and interprets handwritten information from paper,
+images, and other items to digital text in real-time. 
 
 ## 2. Importance of Handwriting Recognition
 
