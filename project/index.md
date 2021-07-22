@@ -51,8 +51,10 @@ intelligence is a part of computer science that involves learning, problem-solvi
 we often hear of machine learning as well. The reason for this is because machine learning also involves the use of human intelligence. Machine learning is the 
 process of a program or system getting more capable over time.
 
-Handwriting Recognition is a branch of (OCR) Optical Character Recognition. It is a technology that receives and interprets handwritten information from paper,
-images, and other items to digital text in real-time. 
+Now, what is handwriting recognition? Handwriting Recognition is a branch of (OCR) Optical Character Recognition. It is a technology that receives handwritten 
+information from paper, images, and other items and interprets them into digital text in real-time. Handwriting recognition is a very established area in the 
+field of image processing. Over the years, developers have created handwriting recognition technology to convert written postal codes, addresses, math questions,
+essays, and many more into digital forms, thus making life easier for businesses and individuals. 
 
 ## 2. Importance of Handwriting Recognition
 
@@ -91,7 +93,7 @@ Your report must include at least 6 references. Please use customary academic ci
 one point automatically change the references from superscript to square brackets it is best to introduce a space before 
 the first square bracket.
 
-[^1]: Handwriting Recognition in 2021: In-depth Guide. (n.d.). Retrieved July 21, 2021, from
+[^1]: Handwriting Recognition in 2021: In-depth Guide. (n.d.).
       <https://research.aimultiple.com/handwriting-recognition>
 
 [^2]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
