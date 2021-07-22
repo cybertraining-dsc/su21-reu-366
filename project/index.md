@@ -54,7 +54,7 @@ process of a program or system getting more capable over time.
 Now, what is handwriting recognition? Handwriting Recognition is a branch of (OCR) Optical Character Recognition. It is a technology that receives handwritten 
 information from paper, images, and other items and interprets them into digital text in real-time. Handwriting recognition is a very established area in the 
 field of image processing. Over the years, developers have created handwriting recognition technology to convert written postal codes, addresses, math questions,
-essays, and many more into digital forms, thus making life easier for businesses and individuals. 
+essays, and many more types of written information into digital forms, thus making life easier for businesses and individuals. 
 
 ## 2. Importance of Handwriting Recognition
 
