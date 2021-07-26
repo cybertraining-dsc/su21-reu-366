@@ -58,19 +58,21 @@ Now, what is handwriting recognition? Handwriting Recognition is a branch of (OC
 information from paper, images, and other items and interprets them into digital text in real-time[^1]. Handwriting recognition is a well-established area in the 
 field of image processing. Over the last few years, developers have created handwriting recognition technology to convert written postal codes, addresses, math questions,
 essays, and many more types of written information into digital forms, thus making life easier for businesses and individuals. However, the development of handwriting
-recognition technology has been quite challenging.  
+recognition technology has been quite challenging.
 
 One of the main challenges of handwriting recognition is accuracy. There is a wide variety of handwriting styles, both good and bad, thus making it harder for developers to
-provide enough samples of what a specific character/integer looks like[^4]. In handwriting recognition, the computer has to translate the handwriting into a format that it understands, and this is where Optical Character Recognition becomes useful. In OCR, the computer focuses on a character, compares it to characters in its database, then identifies what the letters are and fundamentally what the words are.
+provide enough samples of what a specific character/integer looks like[^4]. In handwriting recognition, the computer has to translate the handwriting into a format that it 
+understands, and this is where Optical Character Recognition becomes useful. In OCR, the computer focuses on a character, compares it to characters in its database, then 
+identifies what the letters are and fundamentally what the words are.
 
 
 ## 2. Importance of Handwriting Recognition
 
 ## 4. Images
 
-![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-366/main/project/images/Handwriting_Recognition.png)
+![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-366/main/project/images/ocr.jpg)
 
-**Figure 1:** Overview of the NN operations (green) and the data flow through the NN (pink) [^3].
+**Figure 1:** Overview of Optical Character Recognition at work [^4].
 
 ## 5. What has been done so far in the field?
 
