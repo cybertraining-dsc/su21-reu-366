@@ -30,12 +30,11 @@ Mikahla Reeves, [su21-reu-366](https://github.com/cybertraining-dsc/su21-reu-366
 
 ## Abstract
 
-The first thing that comes to most minds when they hear “Handwriting Recognition” is computers identifying handwriting,
-and that is correct. Handwriting Recognition is the ability of a computer to interpret handwritten input received from
-different sources. In the artificial intelligence world, handwriting recognition has become a very established area.
-Over the years, there have been many developments and applications made in this field. This study investigates some
-of the approaches taken by researchers/developers to convert handwritten information from images to digital forms.
-Also, it discusses the importance of handwriting recognition in modern society.
+The first thing that comes to numerous minds when they hear “Handwriting Recognition” is simply computers identifying handwriting,
+and that is correct. Handwriting Recognition is the ability of a computer to interpret handwritten input received from different sources. 
+In the artificial intelligence world, handwriting recognition has become a very established area. Over the years, there have been many 
+developments and applications made in this field. This study investigates some of the approaches taken by researchers/developers in the 
+last 20 years to convert handwritten information from images to digital forms. Also, it discusses the importance of handwriting recognition in modern society.  
 
 Contents
 
@@ -52,8 +51,8 @@ and answer our questions by just a simple utterance of Siri or Alexa. These thin
 intelligence is a part of computer science that involves learning, problem-solving, and replication of human intelligence. When we hear of artificial intelligence, 
 we often hear of machine learning as well. The reason for this is because machine learning also involves the use of human intelligence. Machine learning is the 
 process of a program or system getting more capable over time[^2]. One example of machine learning at work is Netflix. Netflix is a streaming service that allows 
-users to watch a variety of tv shows and movies, and it also falls under the category of a recommendation engine. Recommendation engines like Netflix do not need 
-to be explicitly programmed. However, their algorithms mine the data, identify patterns, and then the applications can make recommendations. 
+users to watch a variety of tv shows and movies, and it also falls under the category of a recommendation engine. Recommendation engines/applications like Netflix 
+do not need to be explicitly programmed. However, their algorithms mine the data, identify patterns, and then the applications can make recommendations. 
 
 Now, what is handwriting recognition? Handwriting Recognition is a branch of (OCR) Optical Character Recognition. It is a technology that receives handwritten 
 information from paper, images, and other items and interprets them into digital text in real-time[^1]. Handwriting recognition is a very established area in the 
