@@ -49,14 +49,18 @@ Contents
 
 Perhaps one of the most monumental things in this modern-day is how our devices can behave like brains. Our various devices can call mom, play our favorite song, 
 and answer our questions by just a simple utterance of Siri or Alexa. These things are all possible because of what we call artificial intelligence. Artificial 
-intelligence is a part of computer science that involves learning, problem-solving, and replication human intelligence. When we hear of artificial intelligence, 
+intelligence is a part of computer science that involves learning, problem-solving, and replication of human intelligence. When we hear of artificial intelligence, 
 we often hear of machine learning as well. The reason for this is because machine learning also involves the use of human intelligence. Machine learning is the 
-process of a program or system getting more capable over time.
+process of a program or system getting more capable over time[^2]. One example of machine learning at work is Netflix. Netflix is a streaming service that allows 
+users to watch a variety of tv shows and movies, and it also falls under the category of a recommendation engine. Recommendation engines like Netflix do not need 
+to be explicitly programmed. However, they learn through the data they receive from users. 
 
 Now, what is handwriting recognition? Handwriting Recognition is a branch of (OCR) Optical Character Recognition. It is a technology that receives handwritten 
-information from paper, images, and other items and interprets them into digital text in real-time. Handwriting recognition is a very established area in the 
+information from paper, images, and other items and interprets them into digital text in real-time[^1]. Handwriting recognition is a very established area in the 
 field of image processing. Over the years, developers have created handwriting recognition technology to convert written postal codes, addresses, math questions,
 essays, and many more types of written information into digital forms, thus making life easier for businesses and individuals. 
+
+
 
 ## 2. Importance of Handwriting Recognition
 
@@ -94,9 +98,10 @@ Your report must include at least 6 references. Please use customary academic ci
 one point automatically change the references from superscript to square brackets it is best to introduce a space before 
 the first square bracket.
 
-[^1]: Handwriting Recognition in 2021: In-depth Guide. (n.d.).
-      <https://research.aimultiple.com/handwriting-recognition>
+[^1]: Handwriting Recognition in 2021: In-depth Guide. (n.d.). <https://research.aimultiple.com/handwriting-recognition>
+      
+[^2]: Brown, S., 2021. Machine learning, explained | MIT Sloan. [online] MIT Sloan. Available at: <https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained>.
 
-[^2]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
+[^3]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub]
       <https://github.com/cloudmesh/cloudmesh-common>
 
