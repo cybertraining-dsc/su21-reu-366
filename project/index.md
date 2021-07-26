@@ -22,7 +22,7 @@ Mikahla Reeves, [su21-reu-366](https://github.com/cybertraining-dsc/su21-reu-366
 
 ## To-Do 
 
-- [ ] Add in introduction
+- [x] Add in introduction
 
 - [ ] Add in references
 
@@ -34,7 +34,7 @@ The first thing that comes to numerous minds when they hear *Handwriting Recogni
 and that is correct. Handwriting Recognition is the ability of a computer to interpret handwritten input received from different sources. 
 In the artificial intelligence world, handwriting recognition has become a very established area. Over the years, there have been many 
 developments and applications made in this field. This study investigates some of the approaches taken by researchers/developers in the 
-last 20 years to convert handwritten information from images to digital forms. Also, it discusses the importance of handwriting recognition in modern society.
+last few years to convert handwritten information from images to digital forms. Also, it discusses the importance of handwriting recognition in modern society.
 
 Contents
 
@@ -42,7 +42,7 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** handwriting recognition,optical character recognition. 
+**Keywords:** handwriting recognition, optical character recognition, deep learning. 
 
 ## 1. Introduction
 
@@ -55,15 +55,16 @@ users to watch a variety of tv shows and movies, and it also falls under the cat
 do not need to be explicitly programmed. However, their algorithms mine the data, identify patterns, and then the applications can make recommendations. 
 
 Now, what is handwriting recognition? Handwriting Recognition is a branch of (OCR) Optical Character Recognition. It is a technology that receives handwritten 
-information from paper, images, and other items and interprets them into digital text in real-time[^1]. Handwriting recognition is a very established area in the 
-field of image processing. Over the years, developers have created handwriting recognition technology to convert written postal codes, addresses, math questions,
-essays, and many more types of written information into digital forms, thus making life easier for businesses and individuals. 
+information from paper, images, and other items and interprets them into digital text in real-time[^1]. Handwriting recognition is a well-established area in the 
+field of image processing. Over the last few years, developers have created handwriting recognition technology to convert written postal codes, addresses, math questions,
+essays, and many more types of written information into digital forms, thus making life easier for businesses and individuals. However, the development of handwriting
+recognition technology has been quite challenging.  
 
+One of the main challenges of handwriting recognition is accuracy. There is a wide variety of handwriting styles, both good and bad, thus making it harder for developers to
+provide enough samples of what a specific character/integer looks like[^4]. In handwriting recognition, the computer has to translate the handwriting into a format that it understands, and this is where Optical Character Recognition becomes useful. In OCR, the computer focuses on a character, compares it to characters in its database, then identifies what the letters are and fundamentally what the words are.
 
 
 ## 2. Importance of Handwriting Recognition
-
-## 3. Why is Handwriting Recognition Challenging?
 
 ## 4. Images
 
@@ -101,6 +102,8 @@ the first square bracket.
 
 [^2]: Brown, S., 2021. Machine learning, explained | MIT Sloan. [online] MIT Sloan. Available at: <https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained>.
 
-[^3]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub]
+[^3]: ThinkAutomation. 2021. Why is handwriting recognition so difficult for AI? - ThinkAutomation. [online] Available at: <https://www.thinkautomation.com/bots-and-ai/why-is-handwriting-recognition-so-difficult-for-ai/>.
+
+[^4]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub]
       <https://github.com/cloudmesh/cloudmesh-common>
 
