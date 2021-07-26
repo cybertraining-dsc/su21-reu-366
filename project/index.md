@@ -99,7 +99,7 @@ one point automatically change the references from superscript to square bracket
 the first square bracket.
 
 [^1]: Handwriting Recognition in 2021: In-depth Guide. (n.d.). <https://research.aimultiple.com/handwriting-recognition>
-      
+
 [^2]: Brown, S., 2021. Machine learning, explained | MIT Sloan. [online] MIT Sloan. Available at: <https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained>.
 
 [^3]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub]
