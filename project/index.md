@@ -85,9 +85,11 @@ information into digital text is very valuable in almost every field work.
 
 ## 5. Machine Learning Tools
 
-## 6. Benchmark
+- [ ] Add images of the models , and the input & output etc
 
-Your project must include a benchmark. The easiest is to use cloudmesh-common [^4]
+## 6. Results
+
+- [ ] Results from the papers.
 
 ## 7. Conclusion
 
@@ -101,10 +103,6 @@ Thank you to Jacques Fleicher, for always making himself available to answer que
 and the Florida A&M University for providing this great opportunity for undergraduate students to do research.
 
 ## 9. References
-
-Your report must include at least 6 references. Please use customary academic citation and not just URLs. As we will at
-one point automatically change the references from superscript to square brackets it is best to introduce a space before
-the first square bracket.
 
 [^1]: Handwriting Recognition in 2021: In-depth Guide. (n.d.). <https://research.aimultiple.com/handwriting-recognition>
 
