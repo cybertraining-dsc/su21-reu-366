@@ -30,11 +30,11 @@ Mikahla Reeves, [su21-reu-366](https://github.com/cybertraining-dsc/su21-reu-366
 
 ## Abstract
 
-The first thing that comes to numerous minds when they hear “Handwriting Recognition” is simply computers identifying handwriting,
+The first thing that comes to numerous minds when they hear *Handwriting Recognition* is simply computers identifying handwriting,
 and that is correct. Handwriting Recognition is the ability of a computer to interpret handwritten input received from different sources. 
 In the artificial intelligence world, handwriting recognition has become a very established area. Over the years, there have been many 
 developments and applications made in this field. This study investigates some of the approaches taken by researchers/developers in the 
-last 20 years to convert handwritten information from images to digital forms. Also, it discusses the importance of handwriting recognition in modern society.  
+last 20 years to convert handwritten information from images to digital forms. Also, it discusses the importance of handwriting recognition in modern society.
 
 Contents
 
