@@ -42,7 +42,7 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** handwriting recognition, optical character recognition, deep learning. 
+**Keywords:** handwriting recognition, optical character recognition, deep learning.
 
 ## 1. Introduction
 
@@ -76,13 +76,12 @@ identifies what the letters are and fundamentally what the words are.
 
 ## 5. What has been done so far in the field?
 
-
 ## 6. Machine Learning Tools
 
 ## 7. Benchmark
 
 Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
- 
+
 ## 8. Conclusion
 
 A convincing but not fake conclusion should summarize what the conclusion of the project is.
