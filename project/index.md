@@ -72,7 +72,7 @@ identifies what the letters are and fundamentally what the words are.
 
 ![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-366/main/project/images/ocr.jpg)
 
-**Figure 1:** Overview of Optical Character Recognition at work [^4].
+**Figure 1:** (Overview of Optical Character Recognition at work) [^4].
 
 ## 5. What has been done so far in the field?
 
