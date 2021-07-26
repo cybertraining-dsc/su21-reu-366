@@ -53,7 +53,7 @@ intelligence is a part of computer science that involves learning, problem-solvi
 we often hear of machine learning as well. The reason for this is because machine learning also involves the use of human intelligence. Machine learning is the 
 process of a program or system getting more capable over time[^2]. One example of machine learning at work is Netflix. Netflix is a streaming service that allows 
 users to watch a variety of tv shows and movies, and it also falls under the category of a recommendation engine. Recommendation engines like Netflix do not need 
-to be explicitly programmed. However, they learn through the data they receive from users. 
+to be explicitly programmed. However, their algorithms mine the data, identify patterns, and then the applications can make recommendations. 
 
 Now, what is handwriting recognition? Handwriting Recognition is a branch of (OCR) Optical Character Recognition. It is a technology that receives handwritten 
 information from paper, images, and other items and interprets them into digital text in real-time[^1]. Handwriting recognition is a very established area in the 
