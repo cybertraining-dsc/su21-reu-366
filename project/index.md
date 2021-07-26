@@ -69,7 +69,7 @@ identifies what the letters are and fundamentally what the words are.
 
 ## 4. Images
 
-![Figure 1](https://github.com/cybertraining-dsc/su21-reu-366/blob/main/project/images/ocr_work.jpg)
+![Figure 1](https://github.com/cybertraining-dsc/su21-reu-366/raw/main/project/images/ocr_work.jpg)
 
 **Figure 1:** Overview of Optical Character Recognition at work.
 
