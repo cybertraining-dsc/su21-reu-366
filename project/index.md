@@ -116,7 +116,7 @@ and the Florida A&M University for providing this great opportunity for undergra
 
 [^4]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub]
       <https://github.com/cloudmesh/cloudmesh-common>
-      
-[^5]: Darmatasia, and Mohamad Ivan Fanany. 2017. “Handwriting Recognition on Form Document Using Convolutional Neural Network and Support Vector Machines (CNN-SVM).” In 2017 5th International Conference on Information and Communication Technology (ICoIC7), 1–6.
+
+[^5]: Darmatasia, and Mohamad Ivan Fanany. 2017. "Handwriting Recognition on Form Document Using Convolutional Neural Network and Support Vector Machines (CNN-SVM)." In 2017 5th International Conference on Information and Communication Technology (ICoIC7), 1–6.
 
 [^6]: Ramakrishnan, A. G. "The Magic of Automated Recognition of Handwriting." Current Science 107, no. 2 (2014): 159-60. <http://www.jstor.org/stable/24103112>
