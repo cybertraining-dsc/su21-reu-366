@@ -122,3 +122,5 @@ and the Florida A&M University for providing this great opportunity for undergra
 [^6]: Ramakrishnan, A. G. "The Magic of Automated Recognition of Handwriting." Current Science 107, no. 2 (2014): 159-60. <http://www.jstor.org/stable/24103112>
 
 [^7]: K. Dutta, P. Krishnan, M. Mathew and C. V. Jawahar, "Improving CNN-RNN Hybrid Networks for Handwriting Recognition," 2018 16th International Conference on Frontiers in Handwriting Recognition (ICFHR), 2018, pp. 80-85, doi: 10.1109/ICFHR-2018.2018.00023.
+
+[^8]: S, Preetha, Afrid I M, Karthik Hebbar P, and Nishchay S K. 2020. "Machine Learning for Handwriting Recognition." International Journal of Computer (IJC) 38 (1), 93-101. <https://ijcjournal.org/index.php/InternationalJournalOfComputer/article/view/1637>
