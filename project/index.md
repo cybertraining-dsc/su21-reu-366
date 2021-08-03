@@ -75,7 +75,7 @@ Networks and Long Short Term Memory exist. This study will highlight the impact 
 
 ## 2. Convolutional Neural Network Model 
 
-![Figure 1(https://github.com/cybertraining-dsc/su21-reu-366/raw/main/project/images/CNN.PNG)
+![Figure 1](https://github.com/cybertraining-dsc/su21-reu-366/raw/main/project/images/CNN.PNG)
 
 **Figure 1:** This image shows the CNN model.
 
