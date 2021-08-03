@@ -34,8 +34,14 @@ Mikahla Reeves, [su21-reu-366](https://github.com/cybertraining-dsc/su21-reu-366
 The first thing that comes to numerous minds when they hear *Handwriting Recognition* is simply computers identifying handwriting,
 and that is correct. Handwriting Recognition is the ability of a computer to interpret handwritten input received from different sources. 
 In the artificial intelligence world, handwriting recognition has become a very established area. Over the years, there have been many 
-developments and applications made in this field. This study investigates some of the approaches taken by researchers/developers in the 
-last few years to convert handwritten information from images to digital forms. Also, it discusses the importance of handwriting recognition in modern society.
+developments and applications made in this field. In this new age, Handwriting Recognition technologies can be used for the conversion of
+handwritten and/or printed text to speech for the blind, language translation, and for any field that requires handwritten reports to be 
+converted to digital forms instantly.
+
+This study investigates two of the approaches taken by researchers/developers to convert handwritten information to digital 
+forms using (AI) Artificial Intelligence. These two deep learning approaches are the (CNN) Convolutional Neural Network and 
+(LSTM) Long Short Term Memory. The CNN exploits spacial correlation in data and works well on images, while LSTM processes and makes 
+predictions based on sequences of data. Additionally, this study discusses the importance of handwriting recognition in modern society.
 
 Contents
 
