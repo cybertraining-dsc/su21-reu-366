@@ -73,11 +73,11 @@ information into digital text is very valuable in almost every field work.
 
 - [ ] Expound
 
-## 3. Images
+## 3. Models
 
-![Figure 1](https://github.com/cybertraining-dsc/su21-reu-366/raw/main/project/images/ocr_work.jpg)
+![Figure 1](https://github.com/cybertraining-dsc/su21-reu-366/raw/main/project/images/LSTM.png)
 
-**Figure 1:** Overview of Optical Character Recognition at work.
+**Figure 1:** This image shows the LSTM Model.
 
 - [ ] MORE IMAGES
 
