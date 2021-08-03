@@ -81,7 +81,7 @@ Networks and Long Short Term Memory exist. This study will highlight the impact 
 
 ## 3. Long Short Term Memory Model
 
-![Figure 2](https://github.com/cybertraining-dsc/su21-reu-366/raw/main/project/images/LSTM.png)
+![Figure 2](https://github.com/cybertraining-dsc/su21-reu-366/raw/main/project/images/LSTM.jpg)
 
 **Figure 2:** This image shows the LSTM Model.
 
