@@ -19,16 +19,6 @@ Mikahla Reeves, [su21-reu-366](https://github.com/cybertraining-dsc/su21-reu-366
 
 {{% pageinfo %}}
 
-## To-Do 
-
-- [x] Add in introduction
-
-- [ ] Add in references
-
-- [ ] Add in more images
-
-- [ ] Explain what persons have done so far, approach to the prob
-
 ## Abstract
 
 The first thing that comes to numerous minds when they hear *Handwriting Recognition* is simply computers identifying handwriting,
