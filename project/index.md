@@ -13,7 +13,7 @@ resources:
 
 [![Check Report](https://github.com/cybertraining-dsc/su21-reu-366/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-366/actions)
 [![Status](https://github.com/cybertraining-dsc/su21-reu-366/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-366/actions)
-Status: draft, Type: Report
+Status: final, Type: Report
 
 Mikahla Reeves, [su21-reu-366](https://github.com/cybertraining-dsc/su21-reu-366), [Edit](https://github.com/cybertraining-dsc/su21-reu-366/blob/main/project/index.md)
 
@@ -30,8 +30,7 @@ converted to digital forms instantly.
 
 This study investigates two of the approaches taken by researchers/developers to convert handwritten information to digital 
 forms using (AI) Artificial Intelligence. These two deep learning approaches are the (CNN) Convolutional Neural Network and 
-(LSTM) Long Short Term Memory. The CNN exploits spacial correlation in data and works well on images, while LSTM processes and makes 
-predictions based on sequences of data. 
+(LSTM) Long Short Term Memory. The CNN takes advantage of the spatial correlation in data, while LSTM makes predictions based on sequences of data. 
 
 Contents
 
