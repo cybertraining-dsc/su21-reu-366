@@ -83,7 +83,7 @@ which are all the processes the *input worded image* has to pass through before 
 
 ## 4. Flowchart of Handwriting Recognition using CNN
 
-![Figure 3](https://github.com/cybertraining-dsc/su21-reu-366/raw/main/project/images/CNN.jpg)
+![Figure 3](https://github.com/cybertraining-dsc/su21-reu-366/raw/main/project/images/HRS.png)
 
 **Figure 3:** Flowchart of handwriting character recognition on form document [^4]
 
