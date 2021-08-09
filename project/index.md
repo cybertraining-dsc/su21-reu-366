@@ -70,7 +70,10 @@ Networks and Long Short Term Memory exist. This study will highlight the impact 
 **Figure 1:**  Architecture of CNN for feature extraction [^4]
 
 In this model, the *input image* passes through two convolutional layers, two sub-sample layers, and a linear SVM (Support Vector Machine) that allows for the output
-which is a *class prediction*.
+which is a *class prediction*. This class prediction leads to the editable text file. 
+
+Class prediction is a supervised learning method where the algorithm learns from samples with known class membership (training set) and establishes a 
+prediction rule to classify new samples (test set). This method can be used, for instance, to predict cancer types using genomic expression profiling [^8].
 
 ## 3. Long Short Term Memory Model
 
@@ -81,30 +84,36 @@ which is a *class prediction*.
 This model has a spacial transformer network, residual convolutional blocks, bidirectional LSTMs and the CTC loss (Connectionist Temporal Classification loss)
 which are all the processes the *input worded image* has to pass through before the output which is a *label sequence*.
 
-## 4. Flowchart of Handwriting Recognition using CNN
+Sequence labeling is a typical NLP task which assigns a class or label to each token in a given input sequence [^9].
+
+## 4. Handwriting Recognition using CNN
 
 ![Figure 3](https://github.com/cybertraining-dsc/su21-reu-366/raw/main/project/images/HRS.png)
 
-**Figure 3:** Flowchart of handwriting character recognition on form document [^4]
+**Figure 3:** Flowchart of handwriting character recognition on form document using CNN [^4]
 
-## 5. Machine Learning Tools
+In the study, former developers created a system to recognize the handwriting characters on form document automatically and convert it into editable text.
+The system consists of four stages: get ROI (Region of Interest), pre-processing, segmentation and classification. In the getting ROI stage, according to 
+the specified coordinates, the ROI is cropped. Next, each ROI goes through pre-processing. The pre-processing consists of bounding box removal using
+the eccentricity criteria, median filter, and bare open. The output image of the pre-processing stage will be segmented using the Connected Component
+Labeling (CCL) method. It aims to get an individual character[^4].
 
-## 6. Results
+## 5. Conclusion
 
-## 7. Conclusion
-
-In this study, we learned how to use synthetic data, domain-specific image normalization, and augmentation - to train an LSTM architecture. 
+In this study, we learned how to use synthetic data, domain-specific image normalization, and augmentation - to train an LSTM architecture[^6]. 
 Additionally, we learned how a CNN is a powerful feature extraction method when applied to extract the feature of the handwritten characters and 
-linear SVM using L1 loss function and L2 regularization used as end classifier.
+linear SVM using L1 loss function and L2 regularization used as end classifier[^4].
 
-## 8. Acknowledgments
+For future research, we can focus on improving the CNN model to be able to better process information from images to create digital text. 
+
+## 6. Acknowledgments
 
 This paper would not have been possible without the exceptional support of Gregor von Laszewski, Carlos Theran, Yohn Jairo.
 Their constant guidance, enthusiasm, knowledge and encouragement have been a huge motivation to keep going and to complete this work.
 Thank you to Jacques Fleicher, for always making himself available to answer questions. Finally, thank you to Byron Greene
 and the Florida A&M University for providing this great opportunity for undergraduate students to do research.
 
-## 9. References
+## 7. References
 
 [^1]: Handwriting Recognition in 2021: In-depth Guide. (n.d.). <https://research.aimultiple.com/handwriting-recognition>
 
@@ -119,3 +128,7 @@ and the Florida A&M University for providing this great opportunity for undergra
 [^6]: K. Dutta, P. Krishnan, M. Mathew and C. V. Jawahar, "Improving CNN-RNN Hybrid Networks for Handwriting Recognition," 2018 16th International Conference on Frontiers in Handwriting Recognition (ICFHR), 2018, pp. 80-85, doi: 10.1109/ICFHR-2018.2018.00023.
 
 [^7]: S, Preetha, Afrid I M, Karthik Hebbar P, and Nishchay S K. 2020. "Machine Learning for Handwriting Recognition." International Journal of Computer (IJC) 38 (1), 93-101. <https://ijcjournal.org/index.php/InternationalJournalOfComputer/article/view/1637>
+
+[^8]: "Class Prediction (Predict Parameter Value)." NEBC: NERC Environmental Bioinformatics Centre. Silicon Genetics, 2002. <http://nebc.nerc.ac.uk/courses/GeneSpring/GS_Mar2006/Class%20Prediction.pdf>
+
+[^9]: Jacob. "Deep Text Representation for Sequence Labeling." Medium. Mosaix, August 15, 2019. <https://medium.com/mosaix/deep-text-representation-for-sequence-labeling-2f2e605ed9d>
