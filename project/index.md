@@ -67,7 +67,7 @@ Networks and Long Short Term Memory exist. This study will highlight the impact 
 
 ![Figure 1](https://github.com/cybertraining-dsc/su21-reu-366/raw/main/project/images/CNN.jpg)
 
-**Figure 1:**  Architecture of CNN for feature extraction [^5]
+**Figure 1:**  Architecture of CNN for feature extraction [^4]
 
 In this model, the *input image* passes through two convolutional layers, two sub-sample layers, and a linear SVM (Support Vector Machine) that allows for the output
 which is a *class prediction*.
@@ -76,7 +76,7 @@ which is a *class prediction*.
 
 ![Figure 2](https://github.com/cybertraining-dsc/su21-reu-366/raw/main/project/images/LSTM.jpg)
 
-**Figure 2:** Overview of the CNN-RNN hybrid network architecture [^7]
+**Figure 2:** Overview of the CNN-RNN hybrid network architecture [^6]
 
 This model has a spacial transformer network, residual convolutional blocks, bidirectional LSTMs and the CTC loss (Connectionist Temporal Classification loss)
 which are all the processes the *input worded image* has to pass through before the output which is a *label sequence*.
@@ -87,10 +87,11 @@ which are all the processes the *input worded image* has to pass through before 
 
 ## 6. Results
 
-
 ## 7. Conclusion
 
-A convincing but not fake conclusion should summarize what the conclusion of the project is.
+In this study, we learned how to use synthetic data, domain-specific image normalization, and augmentation - to train an LSTM architecture. 
+Additionally, we learned how a CNN is a powerful feature extraction method when applied to extract the feature of the handwritten characters and 
+linear SVM using L1 loss function and L2 regularization used as end classifier.
 
 ## 8. Acknowledgments
 
@@ -107,13 +108,10 @@ and the Florida A&M University for providing this great opportunity for undergra
 
 [^3]: ThinkAutomation. 2021. Why is handwriting recognition so difficult for AI? - ThinkAutomation. [online] Available at: <https://www.thinkautomation.com/bots-and-ai/why-is-handwriting-recognition-so-difficult-for-ai/>.
 
-[^4]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub]
-      <https://github.com/cloudmesh/cloudmesh-common>
+[^4]: Darmatasia, and Mohamad Ivan Fanany. 2017. "Handwriting Recognition on Form Document Using Convolutional Neural Network and Support Vector Machines (CNN-SVM)." In 2017 5th International Conference on Information and Communication Technology (ICoIC7), 1–6.
 
-[^5]: Darmatasia, and Mohamad Ivan Fanany. 2017. "Handwriting Recognition on Form Document Using Convolutional Neural Network and Support Vector Machines (CNN-SVM)." In 2017 5th International Conference on Information and Communication Technology (ICoIC7), 1–6.
+[^5]: Ramakrishnan, A. G. "The Magic of Automated Recognition of Handwriting." Current Science 107, no. 2 (2014): 159-60. <http://www.jstor.org/stable/24103112>
 
-[^6]: Ramakrishnan, A. G. "The Magic of Automated Recognition of Handwriting." Current Science 107, no. 2 (2014): 159-60. <http://www.jstor.org/stable/24103112>
+[^6]: K. Dutta, P. Krishnan, M. Mathew and C. V. Jawahar, "Improving CNN-RNN Hybrid Networks for Handwriting Recognition," 2018 16th International Conference on Frontiers in Handwriting Recognition (ICFHR), 2018, pp. 80-85, doi: 10.1109/ICFHR-2018.2018.00023.
 
-[^7]: K. Dutta, P. Krishnan, M. Mathew and C. V. Jawahar, "Improving CNN-RNN Hybrid Networks for Handwriting Recognition," 2018 16th International Conference on Frontiers in Handwriting Recognition (ICFHR), 2018, pp. 80-85, doi: 10.1109/ICFHR-2018.2018.00023.
-
-[^8]: S, Preetha, Afrid I M, Karthik Hebbar P, and Nishchay S K. 2020. "Machine Learning for Handwriting Recognition." International Journal of Computer (IJC) 38 (1), 93-101. <https://ijcjournal.org/index.php/InternationalJournalOfComputer/article/view/1637>
+[^7]: S, Preetha, Afrid I M, Karthik Hebbar P, and Nishchay S K. 2020. "Machine Learning for Handwriting Recognition." International Journal of Computer (IJC) 38 (1), 93-101. <https://ijcjournal.org/index.php/InternationalJournalOfComputer/article/view/1637>
