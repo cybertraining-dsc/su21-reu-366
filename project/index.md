@@ -81,7 +81,11 @@ which is a *class prediction*.
 This model has a spacial transformer network, residual convolutional blocks, bidirectional LSTMs and the CTC loss (Connectionist Temporal Classification loss)
 which are all the processes the *input worded image* has to pass through before the output which is a *label sequence*.
 
-## 4. What has been done so far in the field?
+## 4. Flowchart of Handwriting Recognition using CNN
+
+![Figure 3](https://github.com/cybertraining-dsc/su21-reu-366/raw/main/project/images/CNN.jpg)
+
+**Figure 3:** Flowchart of handwriting character recognition on form document [^4]
 
 ## 5. Machine Learning Tools
 
