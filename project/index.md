@@ -70,7 +70,7 @@ Networks and Long Short Term Memory exist. This study will highlight the impact 
 **Figure 1:**  Architecture of CNN for feature extraction [^5]
 
 In this model, the *input image* passes through two convolutional layers, two sub-sample layers, and a linear SVM (Support Vector Machine) that allows for the output
-which is *class prediction*.
+which is a *class prediction*.
 
 ## 3. Long Short Term Memory Model
 
