@@ -67,23 +67,26 @@ Networks and Long Short Term Memory exist. This study will highlight the impact 
 
 ![Figure 1](https://github.com/cybertraining-dsc/su21-reu-366/raw/main/project/images/CNN.jpg)
 
-**Figure 1:** This image shows the CNN model.
+**Figure 1:**  Architecture of CNN for feature extraction [^5]
+
+In this model, the *input image* passes through two convolutional layers, two sub-sample layers, and a linear SVM (Support Vector Machine) that allows for the output
+which is *class prediction*.
 
 ## 3. Long Short Term Memory Model
 
 ![Figure 2](https://github.com/cybertraining-dsc/su21-reu-366/raw/main/project/images/LSTM.jpg)
 
-**Figure 2:** This image shows the LSTM Model.
+**Figure 2:** Overview of the CNN-RNN hybrid network architecture [^7]
+
+This model has a spacial transformer network, residual convolutional blocks, bidirectional LSTMs and the CTC loss (Connectionist Temporal Classification loss)
+which are all the processes the *input worded image* has to pass through before the output which is a *label sequence*.
 
 ## 4. What has been done so far in the field?
 
 ## 5. Machine Learning Tools
 
-- [ ] Add images of the models , and the input & output etc
-
 ## 6. Results
 
-- [ ] Results from the papers.
 
 ## 7. Conclusion
 
