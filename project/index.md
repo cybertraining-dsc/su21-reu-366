@@ -2,7 +2,7 @@
 date: 2021-06-16
 title: "Review: Handwriting Recognition Using AI"
 linkTitle: "Handwriting"
-tags: ["report", "reu" , "handwriting" , "recognition"]
+tags: ["report", "reu" , "comunication"]
 description: "This study reviews two approaches and/or machine learning tools used by researchers/developers to convert handwritten information into digital forms using Artificial Intelligence."
 author: Mikahla Reeves
 github_url: https://github.com/cybertraining-dsc/su21-reu-366/edit/main/project/index.md
