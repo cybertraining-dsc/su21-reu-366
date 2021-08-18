@@ -5,8 +5,8 @@ owner:
   hid: "su21-reu-366"
   community: "reu"
   semester: "su21"
-project: "report"
+project:
   title: "Handwriting Recognition Using AI"
-  url: "https://cybertraining-dsc.github.io/report/su21-reu-366/project/"
+  url: "https://github.com/cybertraining-dsc/su21-reu-366/blob/main/project/index.md"
   author:
     - Mikahla Reeves, su21-reu-366
