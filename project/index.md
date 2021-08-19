@@ -1,6 +1,6 @@
 ---
 date: 2021-06-16
-title: "Review: Handwriting Recognition Using AI"
+title: "Report: Handwriting Recognition Using AI"
 linkTitle: "Handwriting"
 tags: ["report", "reu" , "comunication"]
 description: "This study reviews two approaches and/or machine learning tools used by researchers/developers to convert handwritten information into digital forms using Artificial Intelligence."
